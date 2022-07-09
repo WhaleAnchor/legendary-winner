@@ -50,6 +50,8 @@ p {
     font-size: 1.04vw;
 }
 
+/* This is the main picture you see under the header */
+
 .hero {
     height: 52vw;
     width: 100%;
@@ -69,12 +71,68 @@ p {
     margin-left: 1.625vw;
 }
 
+/* From here is the main content page on the middle-left portion of the page */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 1.3vw;
 }
 
+.search-engine-optimization h2 {
+    margin-bottom: 1.3vw;
+    font-size: 2.2vw;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 1.3vw;
+    font-size: 2.2vw;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 1.3vw;
+    font-size: 2.2vw;
+}
+
+.search-engine-optimization {
+    margin-bottom: 1.3vw;
+    padding: 3.25vw;
+    height: 19.5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management {
+    margin-bottom: 1.3vw;
+    padding: 3.25vw;
+    height: 19.5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing {
+    margin-bottom: 1.3vw;
+    padding: 3.25vw;
+    height: 19.5vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 13vw;
+}
+
+.online-reputation-management img {
+    max-height: 13vw;
+}
+
+.social-media-marketing img {
+    max-height: 13vw;
+}
+
+/* From here is the aside portion of the HTML. This is the content of the right portion of the page */
 .benefits {
     margin-right: 1.3vw;
     padding: 1.3vw;
@@ -134,60 +192,7 @@ p {
     max-width: 9.75vw;
 }
 
-.search-engine-optimization {
-    margin-bottom: 1.3vw;
-    padding: 3.25vw;
-    height: 19.5vw;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 1.3vw;
-    padding: 3.25vw;
-    height: 19.5vw;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 1.3vw;
-    padding: 3.25vw;
-    height: 19.5vw;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 13vw;
-}
-
-.online-reputation-management img {
-    max-height: 13vw;
-}
-
-.social-media-marketing img {
-    max-height: 13vw;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 1.3vw;
-    font-size: 2.2vw;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 1.3vw;
-    font-size: 2.2vw;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 1.3vw;
-    font-size: 2.2vw;
-}
-
+/* The footer on the bottom of the page that gives a small message and company info */
 .footer {
     padding: 1.95vw;
     clear: both;
