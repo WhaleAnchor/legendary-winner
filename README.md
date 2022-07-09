@@ -79,7 +79,6 @@ Some of my improvements:
 
 Open the HTML file in a browser (Google Chrome).
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,7 +86,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - andrewsungwoochoi@gmail.com
+Andrew Choi - andrewsungwoochoi@gmail.com
 
 Project Link: [https://github.com/WhaleAnchor/legendary-winner](https://github.com/WhaleAnchor/legendary-winner)
 
