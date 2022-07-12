@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Assignment
 
-[![Horiseon][product-screenshot]](./assets/images/screenshot.png)
+[![Horiseon](/assets/images/screenshot.png "Horiseon webpage screenshot")
 
 Optimizing the webpage's HTML and CSS:
 
