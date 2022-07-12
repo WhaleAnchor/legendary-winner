@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Assignment
 
-[![Horiseon][product-screenshot]](https://ibb.co/YhLR79m)
+[![Horiseon][product-screenshot]](assets/images/screenshot.png)
 
 Optimizing the webpage's HTML and CSS:
 
@@ -58,6 +58,7 @@ Some of my improvements:
 * Tweaked the CSS to accomodate for different resolution sizes.
 
 Here is a link to the repo <a href="https://github.com/WhaleAnchor/legendary-winner/">github.com/WhaleAnchor/legendary-winner</a>
+
 Here is a link to the deployed URL <a href="https://whaleanchor.github.io/legendary-winner/">https://whaleanchor.github.io/legendary-winner/</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -121,7 +122,7 @@ Project Link: [https://github.com/WhaleAnchor/legendary-winner](https://github.c
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: https://ibb.co/YhLR79m
+[product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
