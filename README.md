@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Assignment
 
-[![Horiseon][product-screenshot]](assets/images/screenshot.png)
+[![Horiseon][product-screenshot]](./assets/images/screenshot.png)
 
 Optimizing the webpage's HTML and CSS:
 
